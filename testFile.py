@@ -5,7 +5,7 @@ def bar():
 
 if __name__ == '__main__':
     print ("a")
-    print (foo(1, 2))
+    print (myCode.foo(1, 2))
     print ("b")
     print (bar())
 
